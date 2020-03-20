@@ -34,5 +34,4 @@ def main():
          print(has_one_one_mapping(s1, s2))
      else:
          print(len_different_one_one_mapping(s1, s2))
-
- main()
+main()
